@@ -1,0 +1,17 @@
+body{
+  background-color: #F2D7D9;
+}
+h1{
+  color: #9CB4CC;
+}
+h3{
+  color: #9CB4CC;
+}
+img{
+  background-color: #D3CEDF;
+  border-radius: 100%;
+}
+img:hover{
+  background-color: #9CB4CC;
+  border-radius: 50%;
+}
